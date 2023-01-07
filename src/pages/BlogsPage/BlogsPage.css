@@ -1,0 +1,8 @@
+.blogs-container {
+    width: 80%;
+    margin: 2rem auto;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 3rem;
+    overflow: hidden;
+}

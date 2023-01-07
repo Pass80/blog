@@ -1,0 +1,21 @@
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem 6rem;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    gap: 2rem;
+    font-size: 1.2rem;
+}
+
+ul li {
+    cursor: pointer;
+}
+
+.link {
+    all: unset;
+}
