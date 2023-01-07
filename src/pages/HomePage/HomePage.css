@@ -13,7 +13,7 @@
     background-image: url('../../assets/images/img.jpg');
     background-repeat: no-repeat;
     background-size: cover;
-    /* background-position-y: -10rem; */
+    background-position-y: -10rem;
 }
 
 .welcome-section {
